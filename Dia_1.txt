@@ -1,0 +1,24 @@
+- Algoritmos
+- Lógica de Programação
+- Simtaxe
+
+- Javascript (Usada)
+
+_Front-end_
+
+* Tecnologias front-end:
+- HTML(Hypertext Markup Language);
+- CSS;
+- Javascript.
+
+fluxo cliente-servidor;
+visual mostrado, por exemplo em um site;
+
+*HTTP: (HyperText Transfer Protocool);
+- estrutura;
+*URL: (Universal Resource Location);
+
+_Back-end_
+
+serviços internos pelo front-end
+
