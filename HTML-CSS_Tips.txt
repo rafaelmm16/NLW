@@ -1,0 +1,18 @@
+			<HTML tips/>
+
+Reconhecimeto da página em html: <!DOCTYPE html>
+Bloco/Tag html: <html> ... </html>
+Titulo da página: <title> texto </title>
+Acentuações: <meta charset=UTF-8">
+
+
+Comentarios: <!-- texto -->
+
+/*preenchimento interno*/
+    padding: 64px;
+    
+/*bordas laterias*/
+    border-radius: 8px;
+
+ /*Alinhamento de caixa*/
+    margin: 0 auto;
