@@ -4,6 +4,7 @@ Reconhecimeto da página em html: <!DOCTYPE html>
 Bloco/Tag html: <html> ... </html>
 Titulo da página: <title> texto </title>
 Acentuações: <meta charset=UTF-8">
+Quebra de linha: <br/>
 
 
 Comentarios: <!-- texto -->
