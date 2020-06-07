@@ -2,7 +2,7 @@
 
     height: 100vh;
     background: url('../extras-aula-1/icones/home-background.svg') no-repeat;
-    background-position: bottom;
+    background-position: 35vw bottom;
 }
 
 #page-home .content{
