@@ -1,0 +1,21 @@
+****Back-end****
+
+-resposta do servidor
+-preparar os "pacotes"
+-validação
+-enviar resposta
+-tratamento dos dados
+-armazenar dados
+
+--tecnologias--
+
+-javascript
+-Nodejs
+-Banco de dados:SQL
+-SQLite
+
+-npm (node pack manager)
+-npm init -y (Pega a pasta e transforma em uma especíe de json)
+-npm install express (usado para criar um servidor)
+-npm start (gerelamente o comando usado para iniciar o servidor)
+-CTRL+c (fecha o servidor)
