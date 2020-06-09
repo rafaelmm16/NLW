@@ -1,0 +1,7 @@
+---Bando de Dados---
+
+-Dados não ficam na aplicação
+-cuidado onde ficam os dados
+-tem que ser seguros
+-operações: criar, consultar, atualizar, deletar, etc.
+-Tabelas - Entidades - Relações

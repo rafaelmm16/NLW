@@ -69,6 +69,7 @@ function handleSelectedItem(event){
     itemLi.classList.toggle("selected")
 
     const itemId = itemLi.dataset.id
+    //console.log('ITEM ID: ', itemId)
 
     //Verificar se existe itens selecionados
     const alreadySelected = selectedItems.findIndex(item => {
@@ -88,6 +89,8 @@ function handleSelectedItem(event){
         //add se não estiver no array
         selectedItems.push(itemId)
     }
+
+   // console.log('selectedItems: ', selectedItems)
 
     //Atualizar o campo com os itens selecionados
 
