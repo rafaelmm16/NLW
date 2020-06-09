@@ -7,6 +7,8 @@
 	npm install express
 	npm start
 
+	No navegador abra: localhost:3000
+
 	CTRL+c (fecha o servidor)
 ```
 
