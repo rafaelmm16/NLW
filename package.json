@@ -19,10 +19,12 @@
   "dependencies": {
     "express": "^5.2.1",
     "nunjucks": "^3.2.4",
-    "sqlite3": "^6.0.1"
+    "sqlite3": "^6.0.1",
+    "brace-expansion": ">=5.0.5"
   },
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "brace-expansion": ">=5.0.5"
   },
   "overrides": {
     "tar": "^7.5.4"
