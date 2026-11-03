@@ -4,7 +4,7 @@
   "description": "![](/wallpapers/1440x900.jpg) Evento da Rockseat, Next Level Week",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
@@ -17,13 +17,12 @@
   },
   "homepage": "https://github.com/rafaelmm16/NLW#readme",
   "dependencies": {
+    "brace-expansion": ">=5.0.12",
     "express": "^5.2.1",
     "nunjucks": "^3.2.4",
-    "sqlite3": "^6.0.1",
-    "brace-expansion": ">=5.0.12"
+    "sqlite3": "^6.0.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14",
     "brace-expansion": ">=5.0.12"
   },
   "overrides": {
